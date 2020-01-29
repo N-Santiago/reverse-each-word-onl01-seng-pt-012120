@@ -4,7 +4,7 @@ def reverse_each_word(string)
   original_array.each do |string|
     return_array << array.reverse 
   end
-  
+  return_array.join 
   end
   
   reverse_each_word("Hello there, and how are you?")
