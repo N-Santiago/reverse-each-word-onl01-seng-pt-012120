@@ -1,4 +1,5 @@
 def reverse_each_word(string)
+  original_array = 
   reverse_each_word.each do |string|
   end
   
